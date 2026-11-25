@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://cleanproof-rho.vercel.app/sitemap.xml

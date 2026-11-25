@@ -2,6 +2,8 @@
 
 The public landing site for **CleanProof**, an independent monthly reporting service for commercial cleaning companies.
 
+**Live site:** [cleanproof-rho.vercel.app](https://cleanproof-rho.vercel.app/)
+
 CleanProof turns existing cleaning records, inspection results, service requests and selected photographs into polished monthly PDF reports prepared under the cleaning company's branding.
 
 ## Stack
@@ -53,7 +55,7 @@ Update that constant to change every email link on the site. The address also ap
 
 No environment variables are required. `vercel.json` adds long-term caching for hashed assets and baseline security headers.
 
-Once the production domain is known, add an absolute `og:url` and canonical URL to `index.html`, and add a `sitemap.xml` if the site will be submitted to search consoles.
+If the production domain changes, update the canonical URL, Open Graph and Twitter image URLs in `index.html`, the structured-data URL, `public/robots.txt` and `public/sitemap.xml`.
 
 ## Content rules
 
