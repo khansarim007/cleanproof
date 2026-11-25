@@ -1,0 +1,17 @@
+{
+  "name": "CleanProof",
+  "short_name": "CleanProof",
+  "description": "Professional monthly reporting for commercial cleaning companies.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbfaf7",
+  "theme_color": "#0e2931",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
