@@ -2,7 +2,7 @@
 
 The public landing site for **CleanProof**, an independent monthly reporting service for commercial cleaning companies.
 
-**Live site:** [cleanproof-rho.vercel.app](https://cleanproof-rho.vercel.app/)
+**Live site:** [getcleanproof.vercel.app](https://getcleanproof.vercel.app/)
 
 CleanProof turns existing cleaning records, inspection results, service requests and selected photographs into polished monthly PDF reports prepared under the cleaning company's branding.
 
